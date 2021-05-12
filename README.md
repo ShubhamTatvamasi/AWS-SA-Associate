@@ -24,4 +24,4 @@
 20 | [SECURITY, DEPLOYMENT & OPERATIONS](docs/20%20SECURITY%2C%20DEPLOYMENT%20%26%20OPERATIONS.md)
 21 | [NOSQL Databases & DynamoDB](docs/21%20NOSQL%20Databases%20%26%20DynamoDB.md)
 22 | [EXAM](docs/22%20EXAM.md)
-
+23 | [Finishing Up](docs/23%20Finishing%20Up.md)
