@@ -14,3 +14,4 @@
 10 | [CONTAINERS & ECS](docs/10%20CONTAINERS%20%26%20ECS.md)
 11 | [ADVANCED EC2](docs/11%20ADVANCED%20EC2.md)
 12 | [Route 53 - Global DNS](docs/12%20Route%2053%20-%20Global%20DNS.md)
+13 | [Relational Database Service (RDS)](docs/13%20Relational%20Database%20Service%20(RDS).md)
