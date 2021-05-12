@@ -290,7 +290,7 @@
 11 | RDS Read-Replicas | (8:10) | https://fast.wistia.net/embed/iframe/ughol07k37
 12 | [UPDATE202101] [DEMO] MultiAZ & Using a snapshot to recover from data corruption - PART1 | (15:20) | https://fast.wistia.net/embed/iframe/eegp3g0dkv
 13 | [UPDATE202101] [DEMO] MultiAZ & Using a snapshot to recover from data corruption - PART2 | (16:20) | https://fast.wistia.net/embed/iframe/o24uylh2h0
-14 | RDS Data Security (PRO lesson - Topic features in SAA-C02] | (7:03) | https://fast.wistia.net/embed/iframe/o24uylh2h0
+14 | RDS Data Security (PRO lesson - Topic features in SAA-C02] | (7:03) | https://fast.wistia.net/embed/iframe/47j2hoicz4
 15 | [202103UPDATE] Aurora Architecture | (13:44) | https://fast.wistia.net/embed/iframe/ynpmq55zg4
 16 | [UPDATE202101] [DEMO] Migrating Wordpress onto Aurora - PART1 | (11:37) | https://fast.wistia.net/embed/iframe/nalv5jv60z
 17 | [UPDATE202101] [DEMO] Migrating Wordpress onto Aurora - PART2 | (13:01) | https://fast.wistia.net/embed/iframe/jfhhqsiqqf
