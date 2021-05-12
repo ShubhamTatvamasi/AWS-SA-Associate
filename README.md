@@ -6,3 +6,4 @@
 02 | [Course Fundamentals and AWS Accounts](docs/02%20Course%20Fundamentals%20and%20AWS%20Accounts.md)
 03 | [Cloud Computing Fundamentals](docs/03%20Cloud%20Computing%20Fundamentals.md)
 04 | [Tech Fundamentals](docs/04%20Tech%20Fundamentals.md)
+05 | [AWS Fundamentals](docs/05%20AWS%20Fundamentals.md)
