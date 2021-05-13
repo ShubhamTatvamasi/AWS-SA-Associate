@@ -63,7 +63,7 @@
 . |Title | Time | Link
 ---|---|---|---
 01 | Cloud Computing - what is it...really | (15:35) | https://fast.wistia.net/embed/iframe/xtb3ah5ugc
-02| Public vs Private vs Multi vs Hybrid Cloud | (8:51) | https://fast.wistia.net/embed/iframe/dul3vdqeri
+02 | Public vs Private vs Multi vs Hybrid Cloud | (8:51) | https://fast.wistia.net/embed/iframe/dul3vdqeri
 03 | Cloud Service Models | (11:32) | https://fast.wistia.net/embed/iframe/sl2sykvajy
 
 
